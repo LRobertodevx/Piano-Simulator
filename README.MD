@@ -11,7 +11,7 @@ Este é um projeto de teclado virtual de piano feito em JavaScript, HTML e CSS, 
 
 ## Como usar
 Acesse o projeto pelo link abaixo:
--[]
+-[https://lrobertodevx.github.io/Piano-Simulator/]
 
 ## Estrutura do projeto
 ```
